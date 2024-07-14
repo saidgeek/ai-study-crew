@@ -1,0 +1,5 @@
+research_task:
+  description: >
+    Elavorar un informe completo con la informacion mas relevante sobre {topic}, para la posteriro elavoracion de un documento de estudio.
+  expected_output: >
+    Informe en formato markdown con toda la informacion relevante recopilada.
